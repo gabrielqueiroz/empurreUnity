@@ -2,7 +2,7 @@
 
 * **Sobre**
 
-Jogo baseado no clássico Sokoban com view 3D e 2D, utilizando elementos de física como gravidade, aceleração, entre outros. Desenvolvido utilizando a ferramenta Unity 5.1.
+Jogo baseado no clássico Sokoban com view 2D e 3D, utilizando elementos de física como gravidade, aceleração, entre outros. Desenvolvido utilizando a ferramenta Unity 5.1.
 
 O jogo foi desenvolvido durante a materia de Game Design na University Of New Orleans, e possui apenas 5 levels até o momento.
 
