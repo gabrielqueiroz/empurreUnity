@@ -22,7 +22,7 @@ public class BoxesController1 : MonoBehaviour {
 		if (other.name == "Goal") {
 
 			Material goal = Resources.Load("Goal", typeof(Material)) as Material;
-			this.renderer.material = goal;
+			this.GetComponent<Renderer>().material = goal;
 			GameManager.addCurrentScore();
 			if ( GameManager.getCurrentScore() == 2){
 				StartCoroutine (NextLevel());
